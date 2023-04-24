@@ -2,10 +2,20 @@ apiVersion: v1
 entries:
   nest-mysql-chart:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-04-24T11:58:55.552385193+02:00"
+    appVersion: 1.16.1
+    created: "2023-04-24T17:17:51.793030762+02:00"
     description: A generic helm chart for nest with mysql - HUCO
-    digest: 42f4674964ce6e81eca54b1122762f89ac7e1ef8d295245588cdf6e05a7a7700
+    digest: ccc212695408a8b1bd3fa0ed3bb61a5d99c81ab094086de728cf7b53c2e369ac
+    name: nest-mysql-chart
+    type: application
+    urls:
+    - nest-mysql-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-24T17:17:51.792613161+02:00"
+    description: A generic helm chart for nest with mysql - HUCO
+    digest: 652b11b51957d2d0f325317f8fe1f822b0c1cb24961828a39115fb59a121c53a
     name: nest-mysql-chart
     type: application
     urls:
@@ -14,7 +24,7 @@ entries:
   nest-postgres-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-24T11:58:55.552941916+02:00"
+    created: "2023-04-24T17:17:51.79348896+02:00"
     description: A generic helm chart for nest with postgres - HUCO
     digest: 4e06ac0a281ceddb8564a38095f877d650428aef859a63e0409d9bc96a8f29db
     name: nest-postgres-chart
@@ -25,7 +35,7 @@ entries:
   odoo-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-24T11:58:55.554781685+02:00"
+    created: "2023-04-24T17:17:51.793845204+02:00"
     description: A Helm chart for Kubernetes
     digest: 56be9931a21af918535ce7a69828af210a11d2d4b6b47e07f1c6bee1a1ca7b69
     name: odoo-chart
@@ -36,7 +46,7 @@ entries:
   react-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-24T11:58:55.55560617+02:00"
+    created: "2023-04-24T17:17:51.79412081+02:00"
     description: A generic helm chart for react - HUCO
     digest: afa4ad49370a9437396c3faf14b7bab545ee65ddf4a7edae9bee9bf09159d352
     name: react-chart
@@ -44,4 +54,4 @@ entries:
     urls:
     - react-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-24T11:58:55.551658508+02:00"
+generated: "2023-04-24T17:17:51.79201083+02:00"
